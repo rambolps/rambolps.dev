@@ -5,3 +5,29 @@ html{
   background-image: url(/images/circuit.PNG);
   overflow-y: hidden
 }
+
+button:hover {
+  transform: scale(1.05);
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+#twitch{
+  background-color: blueviolet;
+  border-bottom-color: blueviolet;
+  border-left-color: blueviolet;
+  border-right-color: blueviolet;
+  border-top-color: blueviolet;
+}
+
+#kick{
+  background-color: #46ff3f;
+  border-bottom-color: #46ff3f;
+  border-left-color: #46ff3f;
+  border-right-color: #46ff3f;
+  border-top-color: #46ff3f;
+}
+
