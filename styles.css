@@ -3,7 +3,10 @@
 html{
   background-color: black;
   background-image: url(/images/circuit.PNG);
-  overflow-y: hidden
+  
+}
+body::-webkit-scrollbar {
+  display: none;
 }
 
 button:hover {
