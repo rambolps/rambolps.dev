@@ -5,6 +5,7 @@ html{
   background-image: url(/images/circuit.PNG);
   
 }
+
 body::-webkit-scrollbar {
   display: none;
 }
