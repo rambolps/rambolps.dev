@@ -43,6 +43,14 @@ button:hover {
   border-top-color: #5865F2;
 }
 
+#bsky{
+  background-color: #3b82f7;
+  border-bottom-color: #3b82f7;
+  border-left-color: #3b82f7;
+  border-right-color: #3b82f7;
+  border-top-color: #3b82f7;
+}
+
 #instagram{
 
   background: #833ab4;
